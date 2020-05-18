@@ -1,5 +1,5 @@
 # Maplestory-Class-Recommender
-This project aims to train and delpoy a Maplestory class recommender system that can aid new, old, and returning players in finding the perfect class to main. With over 40 classes to choose from, it can be difficult for new and returning Maplestory players to find the class that's right for them. By aiding them in their search, my hope for this project to grow and strengthen the Maplestory community. 
+This project aims to train and delpoy a Maplestory class recommender system that can aid new, old, and returning players in finding the perfect class to main. With over 40 classes to choose from, it can be difficult for new and returning Maplestory players to find the class that's right for them. By aiding them in their search, my hope for this project is to grow and strengthen the Maplestory community. 
 
 ## Introduction
 
